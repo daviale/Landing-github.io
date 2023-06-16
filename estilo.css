@@ -1,0 +1,100 @@
+body {
+  box-sizing: border-box;
+}
+
+.encab-cabec,
+.encab-cabec-wery {
+  background-color: #2471a3;
+  width: auto;
+  height: 300px;
+  border-radius: 5px;
+  display: flex;
+}
+.logo {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  left: 5%;
+  top: 25%;
+}
+.adapt-logo {
+  width: 250px;
+}
+
+.titulo {
+  position: relative;
+  top: 5%;
+  left: 20%;
+}
+h1 {
+  font-family: "Anton", sans-serif;
+  font-size: 90px;
+}
+.part-central {
+  background-color: #424949;
+  height: auto;
+  width: 100%;
+  position: relative;
+  border-radius: 5px;
+}
+li,
+p {
+  font-family: "Anton", sans-serif;
+  font-family: "Lobster", cursive;
+  font-family: "Orbit", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-size: 200%;
+}
+
+.info-doc,
+.info-temat {
+  width: 40%;
+  position: relative;
+  left: 50%;
+  bottom: -300px;
+}
+.cj-img-doct {
+  position: relative;
+  bottom: 400px;
+  left: 10%;
+}
+h2,
+h3 {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.caja-section-tem-doct {
+  display: flex;
+  flex-direction: column;
+}
+.tem-doc-innov {
+  position: relative;
+  bottom: 300px;
+}
+
+.tem-info-doctor {
+  position: relative;
+  bottom: 570px;
+  left: 1200px;
+}
+
+.info-contac,
+.info-ubic,
+.dat-link {
+  position: relative;
+  top: 20%;
+  left: 30px;
+  right: 30px;
+}
+
+.foot-info-cont,
+.foot-info-ubic,
+.foot-info-link {
+  font-size: 130%;
+}
+
+.icon-whats{
+    position: relative;
+    left: 70%;
+}
